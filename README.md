@@ -1,2 +1,2 @@
-# ProjectManagement
-这是
+# 软件项目管理
+这是与软件项目管理这门课程相关的GitHub仓库（学习日志）
